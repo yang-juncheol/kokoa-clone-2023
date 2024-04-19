@@ -1,6 +1,6 @@
 ## Kokoa clone 2023
 ------
-프로젝트 소개
+# 프로젝트 소개
 -----
 >HTML과 CSS 약간의 JS를 사용해서 카카오톡앱을 웹으로 클론코딩했습니다.
 >
@@ -10,7 +10,7 @@
 >font awesome을 이용해 다양한 아이콘을 넣고 애니메이션도 추가했습니다.
 >
 
-##프로젝트 기술스택
+## 프로젝트 기술스택
 ---
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
